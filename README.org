@@ -1,0 +1,10 @@
+* constantfold
+
+User-defined constant folding facility
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/numcl/constantfold.git   |
+| commit  | 0ff1d97  |
+| systems | constantfold |
+|---------+-------------------------------------------|
+
